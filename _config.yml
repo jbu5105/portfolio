@@ -1,5 +1,5 @@
 title: Jorge Bustos
-logo: /assets/img/me.png
-description: Jorge Bustos 
-show_downloads: true
+logo: /assets/yo.jpg
+description: I am a Machine Learning Research Engineer passionate about Generative Models applied to vision and audio
+# show_downloads: true
 theme: jekyll-theme-minimal

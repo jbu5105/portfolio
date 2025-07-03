@@ -37,8 +37,11 @@ Developed a propietary method to edit pretrained 3DGS scenes using 2D Diffusion 
 ### 🧑‍🏫 Supervised Master Thesis on "Quantization of NeRF algorithm inference for FPGA implementation with integers" (2024)
 [Link to thesis](https://www.linkedin.com/feed/update/urn:li:activity:7247893709281779712/)
 
+In this master thesis we explored the different types of quantization algorithms existing for Deep Learning models. Then we quantized a NeRF model via Post-Traning Quantization and run evaluations to compare against original model. To conclude the work, we make an analysis of the necessary FPGA components to run NeRF quantized models and propose several FPGA models. 
+
 ### 💻 Text-To-Speech Research and Deployment (2021-2023)
 [Company Webpage](https://www.daisys.ai/)
+During my job at Daisys I developed propietary Deep Learning models and deployed them for customers. I was also involved in internal web page maintenance for speech quality evaluation
 
 ### 🧑‍🏫 Supervised Master Thesis on "A study on Speech Enhancement using ResUNet: Evaluating the Influence of Noise Types on Quality Assessment" (2023)
 [Link to thesis]([https://theses.liacs.nl/2833)

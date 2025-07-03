@@ -27,16 +27,24 @@
 • Supervise master thesis from the Master of Artificial Intelligence at Leiden University and lead interns.
 
 ## Projects
-### 💻 3D Scene Editing via 2D Diffusion Models
+### 💻 Fast 3D Scene Editing via One Step Diffusion Models (Coming soon...)
+
+### 💻 3D Scene Editing via 2D Diffusion Models (2024)
 [Scene Editing Video](https://youtu.be/FE95ppQPnW4)
 
 Developed a propietary method to edit pretrained 3DGS scenes using 2D Diffusion models. I used **Python** and **Pytorch** to implement a reprojection algorithm that based on a first edit given a prompt, reprojected that edit into the other poses biasing a diffusion model so that the synthesized new poses were consistent to the first edit. See an example below:
 
+### 🧑‍🏫 Supervised Master Thesis on "Quantization of NeRF algorithm inference for FPGA implementation with integers" (2024)
+[Link to thesis](https://www.linkedin.com/feed/update/urn:li:activity:7247893709281779712/)
 
-
-### 💻 Text-To-Speech Research and Deployment
+### 💻 Text-To-Speech Research and Deployment (2021-2023)
 [Company Webpage](https://www.daisys.ai/)
 
+### 🧑‍🏫 Supervised Master Thesis on "A study on Speech Enhancement using ResUNet: Evaluating the Influence of Noise Types on Quality Assessment" (2023)
+[Link to thesis]([https://theses.liacs.nl/2833)
+
+### 🧑‍🎓 Master Thesis on "Towards album artwork generation based on audio" (2020)
+[Link to thesis](https://github.com/jbu5105/Towards_album_artwork_generation_based_on_audio)
 
 
 ## Others
